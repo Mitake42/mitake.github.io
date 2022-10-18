@@ -172,7 +172,6 @@ body {
 }
 
 .archive-article-date {
-  position: absolute;
   right: calc(100% - 1.5em);
 }
 
